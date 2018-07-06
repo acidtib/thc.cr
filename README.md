@@ -1,22 +1,12 @@
-# thc
+# thc.cr
 
-TODO: Write a description here
+Help collect cannabis strain information from the web
 
 ## Installation
 
-Add this to your application's `shard.yml`:
-
-```yaml
-dependencies:
-  thc:
-    github: your-github-user/thc
-```
+TODO: Write Installation instructions here
 
 ## Usage
-
-```crystal
-require "thc"
-```
 
 TODO: Write usage instructions here
 
@@ -26,7 +16,7 @@ TODO: Write development instructions here
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/thc/fork>)
+1. Fork it (<https://github.com/your-github-user/thc.cr/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -34,4 +24,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) arubinofaux - creator, maintainer
+- [acidtib](https://github.com/acidtib) acidtib - creator, maintainer
